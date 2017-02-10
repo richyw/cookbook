@@ -1,6 +1,17 @@
-# Vegan Cookbook
+# Richard's Cookbook
+This is a collection of recipes that I enjoy. Everything is vegan.
 
-This is a collection of vegan recipes that I like
+## Table of Contents
+
+- [Breakfast](#breakfast)
+	- [Fluffy Pancakes](#fluffy-pancakes)
+- [Dinner](#dinner)
+	- [Spicy Peanut Noodle Box](#spicy-peanut-noodle-box)
+	- [Pizza Dough](#pizza-dough)
+	- [Alfredo Sauce](#alfredo-sauce)
+
+
+<!-- /TOC -->
 
 ## Breakfast
 
