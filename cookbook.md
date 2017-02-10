@@ -9,6 +9,7 @@ This is a collection of recipes that I enjoy. Everything is vegan.
 	- [Spicy Peanut Noodle Box](#spicy-peanut-noodle-box)
 	- [Pizza Dough](#pizza-dough)
 	- [Alfredo Sauce](#alfredo-sauce)
+	- [Split Pea Soup](#split-pea-soup)
 
 
 <!-- /TOC -->
@@ -84,3 +85,20 @@ This is a collection of recipes that I enjoy. Everything is vegan.
 3. Add cauliflower, salt, pepper and basil. Cook until tender
 4. Transfer to blender, add lemon juice and nutritional yeast and blend until smoth
 5. Serve over el dente pasta tossed with olive oil and oregano
+
+### Split Pea Soup
+#### Ingredients
+* 2 tbsp extra virgin olive oil
+* 1 medium diced onion
+* 2 medium sliced carrots
+* 4 Cups water or vegetable broth
+* 1 Cup split peas
+* 1/2 TSP salt
+* 1 TSP smoked paprika
+* 1/2 TSP Liquid smoke
+
+#### Directions
+1. In pot, saute onions in olive oil until translucent
+2. Add sliced carrots, reduce heat, cover and cook for an additional 2 minutes.
+3. Add water or broth and bring to a boil. Add split peas, salt, smoked paprika, bouillon and liquid smoke
+4. Reduce heat, cover and simmer for 1.5-2 hours until the split peas are tender
