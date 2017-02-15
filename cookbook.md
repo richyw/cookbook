@@ -11,7 +11,7 @@ This is a collection of recipes that I enjoy. Everything is vegan.
 	- [Alfredo Sauce](#alfredo-sauce)
 - [Soup](#soup)
 	- [Split Pea Soup](#split-pea-soup)
-	- [Seitan Barley Soup)(#seitan-barley-soup)
+	- [Seitan Barley Soup](#seitan-barley-soup)
 
 <!-- /TOC -->
 
