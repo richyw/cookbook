@@ -9,8 +9,9 @@ This is a collection of recipes that I enjoy. Everything is vegan.
 	- [Spicy Peanut Noodle Box](#spicy-peanut-noodle-box)
 	- [Pizza Dough](#pizza-dough)
 	- [Alfredo Sauce](#alfredo-sauce)
+- [Soup](#soup)
 	- [Split Pea Soup](#split-pea-soup)
-
+	- [Seitan Barley Soup)(#seitan-barley-soup)
 
 <!-- /TOC -->
 
@@ -86,6 +87,8 @@ This is a collection of recipes that I enjoy. Everything is vegan.
 4. Transfer to blender, add lemon juice and nutritional yeast and blend until smoth
 5. Serve over el dente pasta tossed with olive oil and oregano
 
+## Soup
+
 ### Split Pea Soup
 #### Ingredients
 * 2 tbsp extra virgin olive oil
@@ -100,5 +103,30 @@ This is a collection of recipes that I enjoy. Everything is vegan.
 #### Directions
 1. In pot, saute onions in olive oil until translucent
 2. Add sliced carrots, reduce heat, cover and cook for an additional 2 minutes.
-3. Add water or broth and bring to a boil. Add split peas, salt, smoked paprika, bouillon and liquid smoke
+3. Add water or broth and bring to a boil. Add split peas, salt, smoked paprika,
+ bouillon and liquid smoke
 4. Reduce heat, cover and simmer for 1.5-2 hours until the split peas are tender
+
+### Seitan Barley Soup
+#### Ingredients
+* 2 TBSP olive oil
+* 1 diced onion
+* 2 chopped celery sticks
+* 2 chopped carrots
+* 2 cloves garlic
+* 1/2 Cup cubed seitan
+* 1/2 Cup dry red wine
+* 6 Cups vegetable broth
+* 14 oz can diced tomatos
+* 1/2 Cup barley
+* 2 bay leaves
+* 1 TSP thyme
+* 1/2 TSP black pepper
+* 1/4 Cup chopped parsley
+
+### Directions
+1. Saute onion, celery, carrots and garlic in olive oil for 5 minutes
+2. Add seitan and saute another three minutes
+3. Add wine, simmer until recuded by half
+4. Add broth, tomatoes, bay leaves, thyme, pepper and salt. Simmer until barley is soft (approx 45 minutes)
+5. Garnish with parsely and serve
